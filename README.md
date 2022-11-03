@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://www.fillmurray.com/460/300](https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc)">
+  <img src="https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc">
 </p>
 
 <!-- ![](https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc) -->
@@ -8,7 +8,6 @@
 <h3 align="center">Computer Science Eng ,Interested in Embedded Software Engineering </h3>
 <h3 align="center">And here is important note about me </h3>
 <h3 align="center">I Never give up ! </h3>
-<h3 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥 </h3>
 - 🔭 I’m currently working as
 <h4 align="center">[Freelancer Embedded SW Developer] </h4>
 
